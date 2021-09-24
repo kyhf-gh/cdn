@@ -64,10 +64,10 @@
 .leaflet-control-search .search-button {
 	display:block;
 	float:left;
-	width:24px;
-	height:24px;	
-	background: url('/gh/kyhf-gh/cdn@main/images/search-icon.png') no-repeat 4px 4px #fff;
-	border-radius:4px;
+	width:25px;
+	height:25px;	
+	background: url('/gh/kyhf-gh/cdn@main/images/search-icon.png') no-repeat 2px 2px #fff;
+	border-radius:2px;
 }
 .leaflet-control-search .search-button:hover {
 	background: url('/gh/kyhf-gh/cdn@main/images/search-icon.png') no-repeat 4px -20px #fafafa;
