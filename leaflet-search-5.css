@@ -70,7 +70,7 @@
 	border-radius:2px;
 }
 .leaflet-control-search .search-button:hover {
-	background: url('/gh/kyhf-gh/cdn@main/images/search-icon.png') no-repeat 4px -20px #fafafa;
+	background: url('/gh/kyhf-gh/cdn@main/images/search-icon.png') no-repeat 2px -18px #fafafa;
 }
 .leaflet-control-search .search-tooltip {
 	position:absolute;
